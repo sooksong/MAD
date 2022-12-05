@@ -1,3 +1,3 @@
-# MAD
-Code for paper ''XXX'' in Neurocomputing. 
-Code will be released soon...
+# MaD
+Code for paper ''Improving RGB-D Salient Object Detection via Modality-aware Decoder'' in IEEE TIP 2022. 
+Source code can be found in https://github.com/MengkeSong/MaD/.
